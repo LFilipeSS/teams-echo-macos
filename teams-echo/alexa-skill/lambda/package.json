@@ -1,0 +1,8 @@
+{
+  "name": "teams-echo-launcher-skill",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "description": "Abre o visualizador local do Teams na Echo Show",
+  "dependencies": {}
+}
