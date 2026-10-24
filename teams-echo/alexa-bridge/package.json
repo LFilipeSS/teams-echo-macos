@@ -1,0 +1,8 @@
+{
+  "name": "teams-echo-alexa-bridge",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Conexão local para abrir Teams Echo na Echo Show",
+  "scripts": { "test": "node --test bridge.test.cjs" },
+  "dependencies": { "alexa-remote2": "8.1.1" }
+}
