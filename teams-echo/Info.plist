@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>br.com.luizfilipe.teams-echo</string>
+<key>CFBundleName</key><string>Teams Echo</string>
+<key>CFBundleDisplayName</key><string>Teams Echo</string>
+<key>CFBundleExecutable</key><string>TeamsEcho</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>1.3.0</string>
+<key>CFBundleVersion</key><string>4</string>
+<key>LSMinimumSystemVersion</key><string>13.0</string>
+<key>LSUIElement</key><true/>
+<key>NSScreenCaptureUsageDescription</key><string>Transmitir somente a imagem da janela do Microsoft Teams para sua Echo pela rede local.</string>
+<key>NSLocalNetworkUsageDescription</key><string>Enviar a imagem do Teams ao navegador da Echo no mesmo Wi-Fi.</string>
+<key>NSAppTransportSecurity</key><dict><key>NSAllowsLocalNetworking</key><true/></dict>
+</dict></plist>
